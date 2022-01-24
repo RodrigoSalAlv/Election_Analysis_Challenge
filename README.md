@@ -24,7 +24,6 @@ The analysis of the election show that:
     - 82.8% for Denver county with a total of 306,055 votes.
     - 6.7% for Arapahoe county with a total of 24,801 votes.
 - Being Denver the county with the largest count of votes
-
 ![image](https://user-images.githubusercontent.com/96214489/150704341-38191233-8b6f-485e-8561-88b064b9adc6.png)
 
 
@@ -38,7 +37,6 @@ The analysis of the election show that:
     - Candidate 3 received 3.1% of the votes and 11,606 number of votes.
 - The winner of the election was:
     - Diana DeGette, who eceived 73.8% of the votes and 273,892 number of votes
-     
  ![image](https://user-images.githubusercontent.com/96214489/150704630-f81d356d-0a47-4900-8f06-0a2b10e7003b.png)
 
 ## Summary
