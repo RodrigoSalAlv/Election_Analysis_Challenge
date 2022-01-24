@@ -8,7 +8,7 @@ from distutils import text_file
 import os
 
 # Add a variable to load a file from a path.
-file_to_load = os.path.join("Module 3 Python","Election_Analysis", "Resources", "election_results.csv")
+file_to_load = os.path.join("Module 3 Python","Election_Analysis_Challenge", "Resources", "election_results.csv")
 # Add a variable to save the file to a path.
 file_to_save = os.path.join("Module 3 Python","Election_Analysis_Challenge","analysis", "election_analysis.txt")
 
